@@ -8,8 +8,7 @@ function App() {
       <header className="App-header">
       </header>
       <main>
-       <Dictionary defaultKeyword="happiness" />
-
+       <Dictionary defaultKeyword="happiness"/>
       </main>
       <footer>
         Coded by <a href="https://github.com/bxity">Boitumelo Vilakazi</a> and
