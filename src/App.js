@@ -1,5 +1,4 @@
 import "./App.css";
-import logo from "./logo192.png";
 import Dictionary from "./Dictionary";
 
 function App() {
@@ -7,7 +6,6 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <img src={logo} alt="logo" className="App-logo" />
       </header>
       <main>
        <Dictionary defaultKeyword="happiness" />
