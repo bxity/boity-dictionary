@@ -11,3 +11,11 @@
 footer {
   text-align: center;
 }
+
+body {
+  background: #f9f8fe;
+}
+
+a {
+  color: blueviolet;
+}
